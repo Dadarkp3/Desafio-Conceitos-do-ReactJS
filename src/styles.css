@@ -1,39 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,700;1,400&display=swap");
+
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Jost", sans-serif;
 }
 
 body {
-  font-size: 14px;
+	font-size: 14px;
+	background-color: #272a40;
 }
 
-div {
-  width: 100%;
-  margin: 20px;
+.repository {
+	width: calc(100% - 40px);
+	margin: 20px;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
 }
 
 div li {
-  display: flex;
-  align-items: center;
+	display: flex;
+	justify-content: space-evenly;
+	border-bottom: 1px solid white;
+	padding: 1rem;
+	align-items: center;
+	border: 1px dotted white;
 }
 
 div li + li {
-  margin-top: 15px;
+	margin-top: 15px;
 }
 
 button {
-  background: #7159c1;
-  color: #fff;
-  border: 0;
-  padding: 10px 15px;
-  cursor: pointer;
-  margin-top: 15px;
-  font-weight: bold;
-  font-size: 14px;
+	background-color: transparent;
+	color: #fff;
+	border: 0;
+	padding: 10px 15px;
+	cursor: pointer;
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+button:hover {
+	color: #f835a6;
 }
 
 div li button {
-  margin: 0 15px;
-  background: #ca4949;
+	margin: 0 15px;
+}
+
+.add {
+	border-radius: 100%;
+	font-size: 37px;
+	width: 80px;
+	height: 80px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #aa5fcf;
+	margin-bottom: 20px;
+	-webkit-transition: background 0.5s; /* For Safari 3.0 to 6.0 */
+	transition: background 0.5s;
+}
+
+.add:hover {
+	background-color: #56cac4;
+}
+
+ul {
+	color: white;
+	display: flex;
+	flex-flow: column;
+	width: 80%;
+}
+
+.bi-check {
+	margin: 9px;
+	font-size: large;
 }

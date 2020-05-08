@@ -1,0 +1,29 @@
+header{
+  margin: 20px;
+}
+
+.flex{
+  display: flex;
+  margin: auto;
+  width: fit-content;
+}
+
+.logo{
+  color: white;
+  font-size: 46px;
+  margin-right: 20px;
+}
+
+.title{
+  color: white;
+  margin: 0px;
+}
+
+.subtitle{
+  font-size: large;
+    color: #cecece;
+    margin: auto;
+    display: flex;
+    margin: auto;
+    width: fit-content;
+}

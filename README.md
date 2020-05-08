@@ -1,12 +1,12 @@
 <h1 align="center">Segundo desafio do Bootcamp da Rocketseat</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-  <img alt="Version" src="./images/captureScreen.gif" />
+  <img align="center" alt="Version" src="./images/captureScreen.gif" />
 
 <h2> :rocket: Sobre o desafio </h2>
 

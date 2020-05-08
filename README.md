@@ -5,10 +5,10 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
-<center>
+
   <img alt="Version" src="./images/captureScreen.gif" />
-</center>
-## :rocket: Sobre o desafio
+
+<h2> :rocket: Sobre o desafio </h2>
 
 Essa é uma aplicação frontend para armarzenar os repositórios do backend construído com NodeJS. Essa aplicação foi criada com o uso do Framework ReactJS.
 

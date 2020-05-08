@@ -6,8 +6,9 @@
   </a>
 </p>
 
-  <img align="center" alt="Version" src="./images/captureScreen.gif" />
-
+<p align="center">
+  <img align="center" alt="screen" src="./images/captureScreen.gif" />
+</P>
 <h2> :rocket: Sobre o desafio </h2>
 
 Essa é uma aplicação frontend para armarzenar os repositórios do backend construído com NodeJS. Essa aplicação foi criada com o uso do Framework ReactJS.

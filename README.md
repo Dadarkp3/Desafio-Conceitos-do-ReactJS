@@ -23,8 +23,8 @@ Essa é uma aplicação frontend para armarzenar os repositórios do backend con
 ## Instalação
 
 ```sh
-git clone https://github.com/Dadarkp3/Desafio-Conceitos-do-Node.js.git
-cd Desafio-Conceitos-do-Node.js
+git clone https://github.com/Dadarkp3/Desafio-Conceitos-do-ReactJS.git
+cd Desafio-Conceitos-do-ReactJS
 yarn
 ```
 
